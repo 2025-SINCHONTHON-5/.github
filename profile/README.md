@@ -173,3 +173,17 @@
     <td valign="top"></td>
   </tr>
 </table>
+
+## 프론트엔드 기술스택
+- **Language:** Javascript
+- **Framework:** React + Vite
+- **Style:** Tailwind CSS
+- **Data Fetch**: Axios
+- **Cloud Infrastructure:** Netlify
+
+## 백엔드 기술스택
+- **Language:** Python
+- **Framework:** Django, Django REST Framework
+- **Database:** PostgreSQL
+- **Authentication:** JWT
+- **Cloud Infrastructure:** Railway
