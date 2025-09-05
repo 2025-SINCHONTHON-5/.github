@@ -1,4 +1,6 @@
-# needit
+# 서로의 필요가 만나는 곳, needit!
+
+<img width="1920" height="1080" alt="표지" src="https://github.com/user-attachments/assets/793a27c2-0435-4862-ac81-e6deaa05c891" />
 
 ## Member
 
@@ -187,3 +189,4 @@
 - **Database:** PostgreSQL
 - **Authentication:** JWT
 - **Cloud Infrastructure:** Railway
+
